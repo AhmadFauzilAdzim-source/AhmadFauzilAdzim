@@ -15,6 +15,6 @@
 
 📫 Connect with me
 
-LinkedIn:
-Github:
-Email:
+LinkedIn: www.linkedin.com/in/ahmad-fauzil-adzim-5ba2262ab
+Github: https://github.com/AhmadFauzilAdzim-source
+Email: lampencarfauzil@gmail.com
